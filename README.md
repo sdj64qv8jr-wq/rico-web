@@ -1,0 +1,2 @@
+# rico-web
+web
